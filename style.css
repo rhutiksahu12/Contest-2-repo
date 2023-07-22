@@ -200,11 +200,11 @@ li {
 }
 
 .download button{
-    background-color:linear-gradient(rgba(55, 71, 215, 0.825), rgb(65, 147, 134));
-    padding: 5px 15px 5px 15px;
+    background-image:linear-gradient(to right, rgba(55, 71, 215, 0.825), rgb(65, 147, 134));
+    padding: 10px 20px 10px 20px;
     border-radius: 25px;
     border: none;
     color: white;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 300px;
 }
